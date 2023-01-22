@@ -1,0 +1,255 @@
+* {font-family: 'ABeeZee';
+}
+
+  @font-face {
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*Home*/
+.header{
+  background-color:#C4DDDE;
+  top:0px;
+  z-index: 1;
+  position:fixed;
+  width:100%;
+  
+	
+}
+.heading {
+  text-align: center;
+  padding-top:10px;
+  padding:10px;
+  color:#3d6176;
+}
+a.links{
+  text-decoration: none;
+  color:white;
+  text-align: center;
+  padding:15px;
+  
+}
+
+.nav2{
+  margin: 0;
+  padding: 20px;
+  background-color: #3D6176;
+  text-align:right;
+  
+  
+}
+a.links:hover{
+  background-color: #558D97;
+  color:white;
+  padding:15px;
+  border-radius: 15px;
+	 text-decoration: none;
+}
+
+  .logo{
+  cursor:pointer;
+}
+.box2{
+  background-image: url("pexels-photo-7436138.jpeg");
+  background-size:cover;
+  background-position:center;
+  height:80px;
+  padding:80px;
+
+}
+.border{
+	text-shadow: 2px 2px 10px black;
+	padding:20px;
+
+}
+
+hr.new1 {
+	 border: 3px solid #3d6176;
+}
+.main{
+  width:100%;
+  position:absolute;
+  padding-top:150px;
+  text-align:center;
+  color:white;
+  background-color:#C4DDDE;
+}
+.main h1{
+  font-size:40px;
+}
+
+.video{
+  padding:20px;
+  background-color:#99Bfc6;
+}
+.quote{
+  text-align:center;
+  padding:10px;
+  margin:10px;
+  color:#3d6176;
+}
+.box3{
+  text-align:center;
+  background-color:#F5f62;
+  height:5px;
+  padding:10px;
+  color:#3d6176;
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+.where{ font-family: 'Playfair Display';
+color:#3d6176;
+}
+.our{
+	color:#3d6176;
+	font-family: 'Playfair Display';
+}
+
+.footer{
+  background-color: #558d97;
+  text-align:center;
+  margin-top:200px;
+  padding:20px;
+  font-size: 15px;
+  color:white;
+}
+  
+
+/**Earrings**/
+.earbox{
+  background-image: url("https://img.freepik.com/premium-photo/diamond-earrings-wooden-background-drop-earrings-with-blue-crystals-jewelry-two-golden-sapphire-earrings-with-small-diamonds-aquamarine-turquoise-topaz-gemstone-top-view_180731-4723.jpg?w=2000");
+  background-size:cover;
+  background-position:center;
+  height:80px;
+  padding:80px;
+    text-align:center;
+
+}
+.earstory{ 
+  padding:10px;
+  margin:10px;
+  color:#3d6176;
+  
+}
+
+.main1{
+  width:100%;
+  position:absolute;
+  padding-top:150px;
+  color:white;
+  background-color:#C4DDDE;
+}
+.glass, .baby, .cubic,.silver{
+  display:inline-block;
+padding:15px;
+  color:#3d6176;
+}
+.box4{
+  text-align:center;
+  margin:20px;
+  padding:20px;
+}
+/**About US**/
+.cool{
+  background-image: url("https://images.unsplash.com/photo-1589512574123-2ba3b33bf066?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Z29sZCUyMGpld2VsbGVyeXxlbnwwfHwwfHw%3D&w=1000&q=80");
+  background-size:cover;
+  background-position:center;
+  height:80px;
+  padding:80px;
+  text-align:center;}
+.ok{text-shadow: 2px 2px 5px black}
+
+
+.main1{
+  width:100%;
+  position:absolute;
+  padding-top:150px;
+  color:white;
+  background-color:#C4DDDE;
+}
+
+
+.box21{
+  text-align:center;
+  margin:20px;
+  padding:10px;
+  color:black;
+}
+.eileen, .daniel {
+  display:inline-block;
+padding:15px;
+}
+.teams {
+  color:#558d97;
+}
+.who{
+  color:#3d6176;
+  font-family: 'Playfair Display';
+  
+}
+.wo{
+  color:#3d6176;}
+.round{
+  border-radius: 10%;
+  border: 5px solid #3d6176;
+}
+
+.eileen{
+  width:400px;
+  height:800px;
+  border-style: solid;
+  border-color: #558d97;
+}
+.daniel{
+  width:400px;
+  height:800px;
+  border-style: solid;
+  border-color: #558d97;
+}
+.para{
+  color:#3d6176;
+}
+table, td, th {
+  border: 3px solid #558d97;
+	padding:10px;
+}
+th{font-family: 'Playfair Display';
+color:#3d6176;
+	font-size:20px;
+	
+}
+
+table {
+  border-collapse: collapse;
+  width:876px;
+	margin-left: auto;
+  margin-right: auto;
+	
+	
+}
+
+td {
+  text-align: center;
+}
+
+.tables{
+	color:#3d6176;
+	padding-top:30px;
+	margin-left: auto;
+  margin-right: auto;
+}
+hr.new2{
+	border: 2px solid #3d6176;
+  border-radius: 5px;
+}
+.new3{
+	padding-top:15px;
+}
